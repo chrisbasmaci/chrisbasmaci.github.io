@@ -197,9 +197,9 @@ h3 {
   width: 35px;
   background-size: cover !important;
 }
-.social.twitter:before {
+/* .social.twitter:before {
   background: url("https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/laptop-code-1024.png") center no-repeat;
-}
+} */
 .social.pinterest:before {
   background: url("") center no-repeat;
 }
