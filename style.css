@@ -48,7 +48,7 @@ body {
   letter-spacing: 0px;
   font-weight: 400;
   line-height: 28px;
-  background: url("https://wallpaperaccess.com/full/7977181.jpg") right no-repeat;
+  background: url("http://kingofwallpapers.com/leaves/leaves-016.jpg") right no-repeat;
   background-size: cover;
 }
 body:before {
@@ -161,7 +161,7 @@ h3 {
 .logo .logo-svg {
   height: 100%;
   width: 100%;
-  background: url("https://drive.google.com/uc?export=download&id=1AFLyAOThXBrleqqveoLga7MwhQlXHVxq");
+  stroke: #000;
   cursor: pointer;
 }
 .logo .logo-text {
