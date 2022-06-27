@@ -197,11 +197,11 @@ h3 {
   width: 35px;
   background-size: cover !important;
 }
-/* .social.twitter:before {
+.social.codes:before {
   background: url("https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/laptop-code-1024.png") center no-repeat;
-} */
-.social.pinterest:before {
-  background: url("") center no-repeat;
+}
+.social.designs:before {
+  background: url("https://cdn2.iconfinder.com/data/icons/miscellaneous-31/60/art-tools-1024.png") center no-repeat;
 }
 .social.linked-in:before {
   background: url("https://cdn3.iconfinder.com/data/icons/social-media-2026/60/Socialmedia_icons_LinkedIn-128.png") center no-repeat;
