@@ -3,7 +3,7 @@
   transition: 0.35s ease;
 }
 li:not(:last-child) {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 .rela-block {
   display: block;
