@@ -2,14 +2,7 @@
   box-sizing: border-box;
   transition: 0.35s ease;
 }
-li{
-  margin-top: 10px;
-  border:1px solid grey;
-}
 
-li:first-child {
-  margin-top:0;
-}
 .rela-block {
   display: block;
   position: relative;
