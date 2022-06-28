@@ -2,6 +2,9 @@
   box-sizing: border-box;
   transition: 0.35s ease;
 }
+li:not(:last-child) {
+  margin-bottom: 5px;
+}
 .rela-block {
   display: block;
   position: relative;
