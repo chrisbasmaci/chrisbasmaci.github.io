@@ -3,12 +3,7 @@
   transition: 0.35s ease;
 }
 li{
-  margin-top: 3px;
-  border:1px solid grey;
-}
-
-li:first-child {
-  margin-top:0;
+  margin: 2px 0;
 }
 .rela-block {
   display: block;
