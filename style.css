@@ -70,6 +70,7 @@ body:before {
 }
 .justified {
   text-align: justify;
+  font-family: Garamond;
 }
 p.light {
   color: #777;
