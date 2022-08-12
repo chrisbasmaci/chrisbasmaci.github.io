@@ -72,6 +72,9 @@ body:before {
   text-align: justify;
   /* font-family: Garamond; */
 }
+.right_align {
+  text-align: right;
+  /* font-family: Ga
 p.light {
   color: #777;
 }
