@@ -76,6 +76,9 @@ body:before {
   text-align: right;
   color: #777
 }
+.clear{
+  clear:both;
+}
 p.light {
   color: #777;
 }
