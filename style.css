@@ -73,8 +73,12 @@ body:before {
   /* font-family: Garamond; */
 }
 .right_align {
-  text-align: right;
+  float: right;
   color: #777
+}
+.education_box {
+  display: flex;
+  justify-content: space-between;
 }
 .clear{
   clear:both;
