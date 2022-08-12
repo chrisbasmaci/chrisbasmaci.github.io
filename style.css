@@ -74,7 +74,8 @@ body:before {
 }
 .right_align {
   text-align: right;
-  /* font-family: Ga
+  color: #777
+}
 p.light {
   color: #777;
 }
