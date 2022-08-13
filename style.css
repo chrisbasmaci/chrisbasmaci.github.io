@@ -149,7 +149,7 @@ h3 {
   padding: 320px 30px 50px;
 }
 .mugshot {
-  background: url(profile_pic.jpg);
+  background: url(photos/profile_pic.jpg);
   position: absolute;
   margin: false;
   top: 50px;
@@ -180,7 +180,6 @@ h3 {
 .logo .logo-svg {
   height: 100%;
   width: 100%;
-  background: url(https://drive.google.com/uc?export=download&id=1AFLyAOThXBrleqqveoLga7MwhQlXHVxq);
   stroke: #000;
   cursor: pointer;
 }
@@ -219,13 +218,13 @@ h3 {
 }
 
 .social.codes:before {
-  background: url("https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/laptop-code-1024.png") center no-repeat;
+  background: url("photos/laptop_code_icon.png") center no-repeat;
 }
 .social.designs:before {
-  background: url("https://cdn2.iconfinder.com/data/icons/miscellaneous-31/60/art-tools-1024.png") center no-repeat;
+  background: url("photos/design_icon.png") center no-repeat;
 }
 .social.linked-in:before {
-  background: url("https://cdn3.iconfinder.com/data/icons/social-media-2026/60/Socialmedia_icons_LinkedIn-128.png") center no-repeat;
+  background: url("photos/linkedin_icon.png") center no-repeat;
 }
 .side-header {
   font-family: 'Open Sans';
@@ -275,6 +274,7 @@ h3 {
   font-weight: 600;
   line-height: 28px;
 }
+.bolded { font-weight: 800; }
 @media screen and (max-width: 1150px) {
   .name {
     color: #fff;
