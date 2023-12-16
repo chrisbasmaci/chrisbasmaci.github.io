@@ -112,7 +112,8 @@ h3 {
 }
 .top-bar {
   height: 220px;
-  background-color: #3E1929;
+  /*color on top*/
+  background-color: #002244;
   color: #fff;
 }
 .name {
@@ -141,7 +142,8 @@ h3 {
   right: 0;
   bottom: 0;
   width: 350px;
-  background-color: #D9CAB3;
+  /*color on side*/
+  background-color: #D3D3D3;
   padding: 320px 30px 50px;
 }
 .mugshot {
