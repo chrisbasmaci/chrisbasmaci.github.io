@@ -9,39 +9,38 @@ li{
   display: block;
   position: relative;
   margin: auto;
-  top: ;
-  left: ;
-  right: ;
-  bottom: ;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 .rela-inline {
   display: inline-block;
   position: relative;
   margin: auto;
-  top: ;
-  left: ;
-  right: ;
-  bottom: ;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 .floated {
   display: inline-block;
   position: relative;
-  margin: false;
-  top: ;
-  left: ;
-  right: ;
-  bottom: ;
+  margin: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   float: left;
 }
 .abs-center {
-  
-  display: false;
+
   position: absolute;
-  margin: false;
-  top: 50%;
+  margin: 0;
+  top: 100%;
   left: 50%;
-  right: false;
-  bottom: false;
+  right: 0;
+  bottom: 0;
   transform: translate(-50%, -50%);
   text-align: center;
   width: 88%;
@@ -57,7 +56,6 @@ body {
 }
 body:before {
   content: "";
-  display: false;
   position: fixed;
   margin: 0;
   top: 0;
@@ -118,10 +116,9 @@ h3 {
   color: #fff;
 }
 .name {
-  display: false;
   position: absolute;
-  margin: false;
-  top: false;
+  margin: 0;
+  top: 0;
   left: calc(350px + 5%);
   right: 0;
   bottom: 0;
@@ -137,12 +134,11 @@ h3 {
   width: 94%;
 }
 .side-bar {
-  display: false;
   position: absolute;
-  margin: false;
+  margin: 0;
   top: 60px;
   left: 5%;
-  right: false;
+  right: 0;
   bottom: 0;
   width: 350px;
   background-color: #D9CAB3;
@@ -151,11 +147,11 @@ h3 {
 .mugshot {
   background: url(photos/profile_pic.jpg);
   position: absolute;
-  margin: false;
+  margin: 0;
   top: 50px;
   left: 70px;
-  right: false;
-  bottom: false;
+  right: 0;
+  bottom: 0;
   height: 210px;
   width: 210px;
   background-size: cover !important;
@@ -164,13 +160,12 @@ h3 {
   margin: -23px;
 }
 .logo {
-  display: false;
   position: absolute;
-  margin: false;
+  margin: 0;
   top: 0;
   left: 0;
-  right: false;
-  bottom: false;
+  right: 0;
+  bottom: 0;
   z-index: 100;
   margin: 0;
   color: #000;
@@ -184,13 +179,12 @@ h3 {
   cursor: pointer;
 }
 .logo .logo-text {
-  display: false;
   position: absolute;
-  margin: false;
+  margin: 0;
   top: 58%;
-  left: ;
+  left: 0;
   right: 16%;
-  bottom: ;
+  bottom: 0;
   cursor: pointer;
   font-family: "Montserrat";
   font-size: 55px;
@@ -205,13 +199,12 @@ h3 {
 }
 .social:before {
   content: "";
-  display: false;
   position: absolute;
-  margin: false;
+  margin: 0;
   top: -4px;
   left: 10px;
-  right: false;
-  bottom: false;
+  right: 0;
+  bottom: 0;
   height: 35px;
   width: 35px;
   background-size: cover !important;
