@@ -258,6 +258,11 @@ h3 {
   height: 2px;
   background-color: #999;
 }
+.separatorFull{
+  width: 580px;
+  height: 2px;
+  background-color: #999;
+}
 .greyed {
   background-color: #ddd;
   width: 100%;
